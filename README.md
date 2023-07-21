@@ -1,4 +1,4 @@
-# Incident-Response-Simulation-
+# Incident-Response-Simulation
 
 This repository contains a Python script for simulating a basic Cybersecurity Incident Response scenario using SimPy. The simulation models an Incident Response Team handling incidents reported in real-time.
 
